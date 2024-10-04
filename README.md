@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tayyab ahmed" target="blank"><img align="center" src="https://www.linkedin.com/in/tayyab-ahmed-a83700246/" alt="tayyab ahmed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tayyab-ahmed-a83700246/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/1002/775/png-transparent-in-logo-linkedin-facebook-social-media-font-awesome-icon-linkedin-blue-text-trademark-thumbnail.png" alt="tayyab ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
