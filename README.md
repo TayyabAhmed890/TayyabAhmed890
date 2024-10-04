@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tayyab Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabahmed890&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabahmed890" /> </p>
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tayyab ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayyab ahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tayyab ahmed" target="blank"><img align="center" src="https://www.linkedin.com/in/tayyab-ahmed-a83700246/" alt="tayyab ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
