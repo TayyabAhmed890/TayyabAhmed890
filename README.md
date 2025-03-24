@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about combining **AI and Web Develo
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TayyabAhmed890&theme=dracula)
 
 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TayyabAhmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyab-ahmed-a83700246/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TayyabAhmed890)
 
 🎯 "Code, Create, Innovate!" 🚀
