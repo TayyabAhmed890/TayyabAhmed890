@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Tayyab Ahmed!
-🚀 AI-Powered SaaS Developer | 💡 Open Source Enthusiast | 🎨 UI/UX Learner | ⚙ Frontend Web Developer
+# 👋 Hi, I'm Tayyab Ahmed! 
+⚙ Frontend Web Developer
 
 Welcome to my GitHub profile! I'm passionate about combining **AI and Web Development** to build powerful **SaaS applications**. Always learning, always building! 💻🔥
 
@@ -22,4 +22,4 @@ Welcome to my GitHub profile! I'm passionate about combining **AI and Web Develo
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TayyabAhmed890)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://web-portfolio-tayyab-ahmed.vercel.app/)
 
-🎯 **"Crafting Scalable AI SaaS & Stunning Web Experiences!"** 🚀
+🎯 **"Crafting Scalable & Stunning Web Experiences!"** 🚀
