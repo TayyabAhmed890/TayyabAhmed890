@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tayyab Ahmed! 
-⚙ Frontend Web Developer
+⚙ Full Stack Web Developer
 
 Welcome to my GitHub profile! I'm passionate about combining **AI and Web Development** to build powerful **SaaS applications**. Always learning, always building! 💻🔥
 
@@ -20,6 +20,6 @@ Welcome to my GitHub profile! I'm passionate about combining **AI and Web Develo
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyab-ahmed-a83700246/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TayyabAhmed890)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://web-portfolio-tayyab-ahmed.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tayyabahmed.vercel.app/)
 
 🎯 **"Crafting Scalable & Stunning Web Experiences!"** 🚀
