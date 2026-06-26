@@ -1,14 +1,5 @@
-# 👋 Hi, I'm Tayyab Ahmed! 
+# I'm Tayyab Ahmed! 
 ⚙ Full Stack Web Developer
-
-Welcome to my GitHub profile! I'm passionate about combining **AI and Web Development** to build powerful **SaaS applications**. Always learning, always building! 💻🔥
-
-## 🚀 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-FF2D20?style=for-the-badge&logo=sanity&logoColor=white)
 
 ## 📌 Featured Project:
 🔹 **[QR Code Generator](https://socialqr.vercel.app)** - A QR code generator for social media links.  
