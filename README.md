@@ -3,6 +3,7 @@
 
 ## 📌 Featured Project:
 🔹 **[QR Code Generator](https://socialqr.vercel.app)** - A QR code generator for social media links. 
+
 🔹 **[Daily Todo Manager](https://tayyabahmed890.github.io/Todo_Manager/)** - A Simple Todo App for Everyone.
 
 ## 📫 Connect with me:
