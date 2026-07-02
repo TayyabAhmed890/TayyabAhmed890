@@ -1,5 +1,5 @@
 # I'm Tayyab Ahmed! 
-⚙ Web Developer
+⚙ Full Stack Developer
 
 ## 📌 Featured Project:
 🔹 **[QR Code Generator](https://socialqr.vercel.app)** - A QR code generator for social media links. 
