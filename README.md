@@ -4,7 +4,7 @@
 ## 📌 Featured Project:
 🔹 **[QR Code Generator](https://socialqr.vercel.app)** - A QR code generator for social media links. 
 
-🔹 **[Daily Todo Manager](https://tayyabahmed890.github.io/Todo_Manager/)** - A Simple Todo App for Everyone.
+🔹 **[Daily Todo Manager](https://todomanager-prod.vercel.app)** - A Simple Todo App for Everyone.
 
 🔹 **[Besocial](https://thebesocial.vercel.app)** - A Small Social Media App for Everyone.
 
