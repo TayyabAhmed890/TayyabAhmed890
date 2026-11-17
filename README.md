@@ -2,6 +2,8 @@
 ⚙ Aspiring Software Developer
 
 ## 📌 Featured Project:
+🔹 **[KeyNest - Password Manager](https://pwmkeynest.vercel.app)** - A Credentials manager for everyone. 
+
 🔹 **[QR Code Generator](https://socialqr.vercel.app)** - A QR code generator for social media links. 
 
 🔹 **[Daily Todo Manager](https://todomanager-prod.vercel.app)** - A Simple Todo App for Everyone.
